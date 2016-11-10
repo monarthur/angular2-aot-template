@@ -5,5 +5,5 @@ import { Component } from '@angular/core';
   templateUrl: 'app.component.html'
 })
 export class AppComponent {
-    test:String = 'Apan lever ju';
+    test:String = 'Apan lever ju faktiskt!';
  }
